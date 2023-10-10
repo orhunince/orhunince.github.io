@@ -4210,7 +4210,7 @@ textarea.form-control-lg {
 }
 
 .navbar-dark {
-  --bs-navbar-color: rgba(255, 255, 255, 0.55); /* Navbar Foreground Elements Colour (Except Title) */
+  --bs-navbar-color: rgba(255, 255, 255, 0.55);
   --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
   --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
   --bs-navbar-active-color: #fff;
@@ -11001,7 +11001,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #fff;
+  background-color: #111;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -11013,7 +11013,7 @@ body {
   outline: none;
 }
 #mainNav .navbar-brand {
-  color: #000;
+  color: #ddd;
   font-weight: 700;
   padding: 0.9rem 0;
 }
@@ -11050,18 +11050,18 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #111;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #000;
+    color: rgba(255, 255, 255, 0.5);
   }
   #mainNav.navbar-shrink .nav-link {
-    color: #000;
+    color: rgba(255, 255, 255, 0.5);
     padding: 1.5rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #111;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
