@@ -11051,9 +11051,13 @@ body {
   }
   #mainNav.navbar-shrink {
     background-color: #111;
+    transition: 500ms;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: rgba(255, 255, 255, 0.5);
+  }
+  #mainNav.navbar-shrink .navbar-brand:hover {
+    color: rgba(255, 255, 255, 0.8);
   }
   #mainNav.navbar-shrink .nav-link {
     color: rgba(255, 255, 255, 0.5);
@@ -11061,7 +11065,7 @@ body {
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #111;
+    color: rgba(255, 255, 255, 0.7);
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
