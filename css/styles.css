@@ -11050,7 +11050,7 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #111;
+    background-color:  rgba(0, 0, 0, 0.95);
     transition: 500ms;
   }
   #mainNav.navbar-shrink .navbar-brand {
