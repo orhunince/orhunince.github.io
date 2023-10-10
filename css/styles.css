@@ -8250,6 +8250,26 @@ textarea.form-control-lg {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
+.text-white-60 {
+  --bs-text-opacity: 1;
+  color: rgba(255, 255, 255, 0.6) !important;
+}
+
+.text-white-70 {
+  --bs-text-opacity: 1;
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.text-white-80 {
+  --bs-text-opacity: 1;
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.text-white-90 {
+  --bs-text-opacity: 1;
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
 .text-reset {
   --bs-text-opacity: 1;
   color: inherit !important;
