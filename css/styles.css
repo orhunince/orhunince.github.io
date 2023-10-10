@@ -11061,8 +11061,8 @@ body {
   }
   #mainNav.navbar-shrink .nav-link {
     color: rgba(255, 255, 255, 0.5);
-    padding: 1.5rem 1.5rem 1.25rem;
-    border-bottom: 0.25rem solid transparent;
+    /* padding: 1.5rem 1.5rem 1.25rem;
+    border-bottom: 0.25rem solid transparent; */
   }
   #mainNav.navbar-shrink .nav-link:hover {
     color: rgba(255, 255, 255, 0.7);
